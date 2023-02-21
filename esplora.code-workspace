@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "esplora-remote-controller"
+		},
+		{
+			"path": "esplora-blink"
+		},
+		{
+			"path": "esplora-test"
+		},
+		{
+			"path": "esplora-tetris"
+		},
+		{
+			"name": "esplora-hc12-test",
+			"path": "esplora-hc12-test"
+		}
+	],
+	"settings": {}
+}
